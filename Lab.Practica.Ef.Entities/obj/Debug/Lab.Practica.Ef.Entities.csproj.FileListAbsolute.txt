@@ -1,0 +1,12 @@
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\bin\Debug\Lab.Practica.Ef.Entities.dll.config
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\bin\Debug\Lab.Practica.Ef.Entities.dll
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\bin\Debug\Lab.Practica.Ef.Entities.pdb
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\obj\Debug\Lab.Practica.Ef.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\obj\Debug\Lab.Practica.Ef.Entities.csproj.CopyComplete
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\obj\Debug\Lab.Practica.Ef.Entities.dll
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\obj\Debug\Lab.Practica.Ef.Entities.pdb
+C:\Users\Johanna\source\repos\LabNet2022\LabNet.Ncapas\Lab.Practica.Ef\Lab.Practica.Ef.Entities\obj\Debug\Lab.Practica.Ef.Entities.csproj.AssemblyReference.cache
